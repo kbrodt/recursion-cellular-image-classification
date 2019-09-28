@@ -3,7 +3,7 @@
 This is an another one approach to solve the competition from kaggle
 [Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification).
 
-44th place out of 263 (silver medal) with 0.95340 accuracy score (top 1 -- 0.99763).
+44th place out of 866 (silver medal) with 0.95340 accuracy score (top 1 -- 0.99763).
 
 ### Prerequisites
 
