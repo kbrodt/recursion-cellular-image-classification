@@ -1,0 +1,9 @@
+albumentations
+scipy
+pandas
+catalyst
+torchvision
+matplotlib
+numpy
+torch
+tqdm
